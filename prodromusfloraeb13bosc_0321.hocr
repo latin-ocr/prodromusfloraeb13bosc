@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusfloraeb13bosc_0321.png"; bbox 0 0 2122 3804; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 463 1283 1383 1397">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 463 1283 1383 1397">
+     <span class='ocr_line' id='line_1_1' title="bbox 463 1283 1383 1397; baseline -0.022 0"><span class='ocrx_word' id='word_1_1' title='bbox 463 1283 1383 1397; x_wconf 81' lang='lat' dir='ltr'>PRODROMUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 192 1590 1680 1696">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 1590 1680 1696">
+     <span class='ocr_line' id='line_1_2' title="bbox 192 1590 1680 1696; baseline -0.019 0"><span class='ocrx_word' id='word_1_2' title='bbox 192 1605 806 1696; x_wconf 66' lang='lat' dir='ltr'>FLORAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 919 1590 1680 1682; x_wconf 66' lang='lat' dir='ltr'><strong>RATAVAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
